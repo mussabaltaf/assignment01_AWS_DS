@@ -59,4 +59,8 @@ The system follows AWS Best Practices by decoupling the web tier from the public
 ---
 *This project was developed as part of the CE 308/408 Cloud Computing course.*
 <img width="2395" height="824" alt="image" src="https://github.com/user-attachments/assets/e6b4daaa-4d26-45a4-baf7-433dc2af4f93" />
+<img width="2879" height="1314" alt="image" src="https://github.com/user-attachments/assets/0bce69eb-04f6-4954-8652-aac081ad8c53" />
+<img width="2879" height="794" alt="image" src="https://github.com/user-attachments/assets/4e44d606-7bda-46ba-a5dc-07827e03799d" />
+
+
 
